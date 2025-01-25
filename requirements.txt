@@ -1,0 +1,4 @@
+sklearn == 1.2.2
+streamlit
+joblib
+pandas
